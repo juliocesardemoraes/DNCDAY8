@@ -92,3 +92,7 @@ form button {
   background: #9f7fdb;
   color: #fff;
 }
+
+input::placeholder {
+  color: #fff !important;
+}
